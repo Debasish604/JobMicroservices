@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "JobServices.Controllers.JobsController",
+    "Method": "GetJobsByHiringManager",
+    "RelativePath": "api/Jobs/{hiringManagerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hiringManagerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
